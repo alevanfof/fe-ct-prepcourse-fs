@@ -20,7 +20,7 @@ function sonIguales(x, y) {
 
 
    
-/*
+
 function tienenMismaLongitud(str1, str2) {
    // Retorna true si los dos strings tienen la misma longitud.
    // De lo contrario, retorna false.
@@ -31,7 +31,7 @@ function tienenMismaLongitud(str1, str2) {
       return false;
    }
 }
-*/
+
 
 function menosQueNoventa(num) {
    // Retorna true si el argumento "num" es menor que noventa.
